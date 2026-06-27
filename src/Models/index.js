@@ -1,1 +1,1 @@
-// model info goes here
+export { default as Resource } from './resource.model.js';

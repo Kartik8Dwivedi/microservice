@@ -1,1 +1,1 @@
-// controllers go here
+export * as ResourceController from './resource.controller.js';
